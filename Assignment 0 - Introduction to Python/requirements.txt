@@ -1,0 +1,18 @@
+numpy
+python-dateutil
+pyinstaller
+pytz
+numexpr
+bottleneck
+scipy
+matplotlib
+tables # install PyTables
+h5py
+Pillow
+scikit-learn
+pandas
+tensorflow
+keras
+opencv-python
+scikit-image
+pep8
